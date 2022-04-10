@@ -1,9 +1,9 @@
 load:
   path:
     load:
-      'data/raw'
+      'input_data/'
     write:
-      'data/processed'
+      'output_data/'
 
 train:
   test_size:
